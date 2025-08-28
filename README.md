@@ -1,8 +1,11 @@
-# Tarea 1: Análisis de una Webstory #
+# Repositorio de tareas # 
 
-## "Is the love song dying?" de David Mora y Michelle Jia ##
+## Tarea 1: Análisis de una Webstory #
+
+### "Is the love song dying?" de David Mora y Michelle Jia ##
 #### https://pudding.cool/2024/11/love-songs/ ##
 
+![alt text](image.png)
 
 La webstory investiga la hipótesis que asegura que las canciones de amor están "muriendo". Esta investigación surge a base de comentarios de usuarios en internet y de medios de comunicación que han cubrido el tema. 
 
